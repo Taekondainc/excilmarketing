@@ -1,0 +1,425 @@
+@media only screen and (max-width: 1000px) and (min-width: 0px) {
+  #appcontainer {
+    padding-top: 60px;
+  }
+.logodivcentered {
+  display:none; 
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  color: white;
+ margin-left: 13px;
+  font-size: 1.5rem;
+
+}
+
+  .qoutesdiv {
+    color: #e7e7e7;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: 100%;
+    padding: 20px;
+    justify-content: center;
+  }.previewdiv2{
+    overflow-y: scroll; 
+ }.rotate{  
+  
+  width: 100vh !important;
+   
+  
+   transform-origin: 0 0 0 0;transform: rotate(
+ 90deg
+ ); object-fit: contain;
+   
+ 
+ }#rotater{width: 100%;
+   color: #e7e7e7;text-align: center;
+   font-size: 5rem; display: flex;
+   justify-content:left;
+ }#rotater2{width: 100%;
+   color: #e7e7e7;text-align: center;
+   font-size: 5rem; display: flex;
+   justify-content: center;
+ }.imagepre{ 
+   width: 100%;
+ }#rotater td{font-size: 1rem;
+   padding: 2rem;
+ }
+  #logo {
+    width: 21vw;
+    margin-left: unset;
+  }
+  #social {
+    width: 1.4rem;
+  }.h1aim{
+    color:white;padding:20px;
+    font-size: 1rem;
+    text-align: justify;
+  
+ }
+  #menu {grid-template-columns: auto;
+    width: 40%;
+    cursor: pointer;
+    margin-left: 1.5rem;
+  }#footerlink2 {
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    background-color: black;
+    border-radius: 3px;font-size: 0.6rem;
+    color: white;
+  }
+  #header {
+    background-color: #ff5e24;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    z-index: 4;
+    margin: 0px;
+    padding: unset;
+  }.change_color{  background-color: #ff5e24;
+    position: fixed ;
+    width: 100%;
+    top: 0%;
+    z-index: 4;
+    margin: 0px;
+    padding: unset !important;}
+  .intropagre {
+    display: unset;
+    padding: 0px;
+  }
+  #cintrodiv {
+    padding: 20px;
+  }
+  #h1servicediv {
+    font-size: 12px;
+    line-height: unset;
+  }
+.centerimgrect{
+  display: flex;
+  justify-content: center;
+  
+}
+
+#servicesimgrect{
+  padding-top: 50px;
+  width: 80%;
+}
+  #h1servicedivrect {
+    font-size: 12px;
+    line-height: unset;
+  }
+  .contdivservice div {
+    height: unset;
+  }
+  .contdivservice div img {
+    width: 100%;
+    height: unset !important;
+  }
+  .contdivservice2 div {
+    height: unset;
+  }
+  .contdivservice2 div img {
+    width: 100%;
+    height: unset !important;
+  }
+  .extservdiv {
+    height: 30vh !important;
+  }
+  .extservdiv2 {
+    height: 30vh !important;
+  }
+  .extservdiv3 {
+    height: 30vh !important;
+  }
+  .extservdiv4 {
+    margin-top: 30px;
+  }
+
+  #bnnr {
+    font-size: 6vw;
+    line-height: unset;
+  }
+  #d-c {
+    display: flex;
+  }
+  #left {
+    background-color: #f15a24;
+    height: 50px;
+    width: 60%;
+    float: right;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    padding-top: unset;
+    align-content: center;
+    vertical-align: middle;
+  }
+  .btn-cta {
+    padding: 10px;
+    font-size: 2.5vw;
+    border-radius: 3px;
+    display: grid;
+    justify-content: center;
+    vertical-align: middle;
+    align-content: center;
+    margin-top: 20px;
+    background-color: #f15a24;
+    color: white;
+    width: fit-content;
+    font-family: "Bebas Neue", cursive;
+    letter-spacing: 1.5px;
+  }
+
+  .banner {
+    font-family: "Bebas Neue", cursive;
+    font-size: 8vw;
+    color: white;
+    letter-spacing: 3px;
+    font-weight: 500;
+  }
+  .banner2 {
+    margin-right: 0;
+  }
+  .tagline {
+    line-height: 0.5;
+    font-family: "Oswald", cursive;
+    font-weight: 400;
+    display: grid;
+    font-size: 2.4vw;
+    color: white;
+    letter-spacing: 3px;
+  }
+  #middle {
+    padding-top: 50px;
+    padding: 10px;
+    padding-bottom: 60px;
+  }
+  #torso {
+    height: unset;
+  }
+  #a-boxes {
+    width: 100%;
+  }
+  #midsection {
+    padding: 10px;
+    padding-top: 80px;
+  }
+  #orangesection {
+    background-color: #f15a24;
+    color: white;
+    padding: 20px;
+  }
+  #orangesectimg {
+    width: 40px;
+  }
+  #flex-or {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #odivsecto {
+    margin-top: 20px;
+    width: unset;
+    padding: 10px;
+    font-size: 4.5vw;
+  }
+  #lastsection {
+    padding: 10px;
+    margin-top: 240px;
+  }
+  .logoexp {
+    display: flex;
+    flex-wrap: wrap-reverse;
+  }
+  #displimg {
+    width: 80%;
+  }
+  #flex-or2 {
+    padding: 0;
+    display: grid;
+  }
+  .banner3 {
+    font-size: 8vw;
+    margin-bottom: 40px;
+  }
+  #shortline2 {
+    width: 40px;
+  }
+  .displayproducts {
+    display: unset;
+  }
+  .columncreate {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 5px;
+  }
+  #text-cont {
+    padding: 10px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+  }
+  .banner1 {
+    font-size: 5vw;
+  }
+  #text-cont {
+    height: auto;
+  }
+  #context-midd {
+    padding: 0; /* flex-direction: column-reverse; */
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .spanall {
+    column-span: all;
+    grid-column: 1 / -1;
+  }
+  #picimg {
+    width: 100%;
+  }
+  #container2-mod {
+    padding: 20px;
+    width: unset;
+    color: white;
+  }
+  #h1-div {
+    text-align: justify;
+  }
+  #footercontainer {
+    /* display: grid; */
+    display: grid;
+    justify-content: center;
+    width: unset;
+    padding-top: 10px;
+    grid-template-columns: auto auto;
+  }
+  .banner4 {
+    font-size: 5vw;
+  }
+  .banner5 {
+    font-size: 5vw;
+  }
+  #footerimg {
+    height: 3vh;
+  }
+  #footerhr {
+    grid-template-columns: auto;
+  }
+  #footerhr {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  #ftrdiv {
+    justify-content: center;
+  }
+  #iconmiddle {
+    display: unset;
+    text-align: center;
+  }
+  #up {
+    text-align: center;
+  }
+  .yellow {
+    overflow-y: scroll;
+    z-index: 4;
+  }
+  #menudrag {
+    display: grid;
+    text-align: center;
+  }
+  #menudrag #iconmiddle {
+    margin-top: 30px;
+  }
+  .menulock {
+    padding: 10px;
+  }
+  .formcontent {
+    width: 90%;
+
+    height: 70vh;
+  }
+  .productspage {
+    height: unset;
+    padding: unset;
+  }
+  .containerprod {
+    display: block;
+  }
+  #idmprod2 {
+    width: 95%;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  .banner8 {
+    margin: 0;
+    margin-top: 15px;
+    font-size: 10vw;
+    color: white;
+    font-family: "Bebas Neue", cursive;
+  }
+
+ 
+  #h1-div2 {
+    font-family: "Oswald", cursive;
+    font-size: 4vw;
+    line-height: unset;
+    margin-top: 5px;
+  }
+  .banner8 div {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    line-height: unset;
+  }
+
+  .dheader {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    grid-template-columns: 20% 60% 20%;
+  }
+  #dashboard {
+    overflow-y: scroll;
+    grid-template-columns: auto;
+  }
+  #h1 {
+    padding: 0;
+    font-size: 20vw;
+    text-align: unset;
+  }
+  #h2 {
+    padding: 0;
+    font-size: 20vw;
+    text-align: unset;
+  }
+  .d-center {
+    display: block;
+  }
+  #contactform {
+    width: unset;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  #iccont {
+    padding-bottom: 20px;
+  }
+  iframe {
+    width: 95% !important;
+  }
+  #wpwallpaper2 {
+    width: 60%;
+  }
+  .login-cont {
+    display: flex;
+    padding: 10px;
+    padding-top: 100px;
+  }
+  #gocenter {
+    display: block;
+  }
+}
+@media only screen and (max-width: 340px) and (min-width: 0px) {
+  #social {
+    margin: 7px;
+  }
+}
